@@ -29,6 +29,7 @@ Ok, so after checking for significant main effects, significant second-order int
 
 ### Results
 **ALL CODE USED TO OBTAIN THESE RESULTS CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
+
 When I made a model of solely environmental variables, it did not accurately describe the data well since it has a very low r<sup>2</sup> compared to the model where I added the genetic risk variables, indicating to me that a model of solely environmental variables is a very unwise choice for my final model. As for the variables that I believe are associated with Y, I believe that the significant main effect variables (E1-E4 and G5) are associated with Y and that interactions between the independent variables (notably, E4:G5 and E2:E3) do not effect Y any more than these significant main effect variables already do. Thus, I believe that the final model that was used to obtain the data given to me is simply the model of significant main effects: Y= 𝛽0 + 𝛽1𝐸1 + 𝛽2𝐸2 + 𝛽3𝐸3 + 𝛽4𝐸4 + 𝛽5𝐺5 + 𝜖. The estimate of said model is E(Y) = 22.4559 + 5.2817E1 + 8.4961E2 + 8.5514E3 + 2.6919E4 + 79.7722G5. The residual plot and the density plot and the table of coefficients associated with the final model that I used to get the estimates of the coefficients is shown in the appendix. 
 
 ### Discussions and Conclusions
