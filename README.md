@@ -9,6 +9,7 @@ genetic risk variables that were indicator variables with values of 0 and 1 (G1-
 goal/background of this assignment was to use the data given to find the original model that had been used to produce the data. This means finding out what independent variables significantly effect Y and what interactions between these independent variables significantly effect Y in order to build the final model that had produced this data. I then have to estimate the coefficients associated with said model and use them to make an estimate of said model. 
 
 ### Methods
+**ALL CODE USED CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
 
 I used R throughout this entire project. First, I found the number of observations using the read() function which gave me 1335 observations of 25 variables as mentioned earlier. I then checked for missing data using the mice library and md.pattern() function and R reported to me that there was no missing data, so this wasn’t a problem I had to worry about in my analysis. I then made a linear model relating Y to just the environment variables (E1-E4) to see if this model of solely environmental variables with no genetic risk variables or interactions was the correct final model that had produced this data. I then saw if adding the genetic risk variables (G1-G20) to the model of environmental variables made a better model for describing the data.
 
