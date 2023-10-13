@@ -8,6 +8,10 @@ independent variables of which four were environmental variables (E1-E4) and twe
 genetic risk variables that were indicator variables with values of 0 and 1 (G1-G20). The
 goal/background of this assignment was to use the data given to find the original model that had been used to produce the data. This means finding out what independent variables significantly effect Y and what interactions between these independent variables significantly effect Y in order to build the final model that had produced this data. I then have to estimate the coefficients associated with said model and use them to make an estimate of said model. 
 
+### Data Source
+
+Dataset Used: https://github.com/darianlee555/Multiple-Linear-Regression-Project/blob/main/Project2File.csv
+
 ### Methods
 **ALL CODE USED CAN BE FOUND IN THE R CODE APPENDIX SECTION BELOW**
 
