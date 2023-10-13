@@ -1,5 +1,8 @@
 # Multiple-Linear-Regression-Project
 
+### Context
+As part of my coursework at Stony Brook University, I was required to perform data analysis involving multiple linear regression models. Here is one such project that demonstrates me making a multiple linear regression model based on a data set and analyzing said model. Please take a look below at my report!
+
 ### Objective 
 
 For this project, I was given a data file that contained 1335 observations of 25
