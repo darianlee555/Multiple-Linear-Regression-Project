@@ -5,11 +5,7 @@ As part of my coursework at Stony Brook University, I was required to perform da
 
 ### Objective 
 
-For this project, I was given a data file that contained 1335 observations of 25
-variables. Of the 25 variables, one was a dependent variable (Y), and twenty-four were
-independent variables of which four were environmental variables (E1-E4) and twenty were
-genetic risk variables that were indicator variables with values of 0 and 1 (G1-G20). The
-goal/background of this assignment was to use the data given to find the original model that had been used to produce the data. This means finding out what independent variables significantly effect Y and what interactions between these independent variables significantly effect Y in order to build the final model that had produced this data. I then have to estimate the coefficients associated with said model and use them to make an estimate of said model. 
+For this project, I was given a data file that contained 1335 observations of 25 variables. Of the 25 variables, one was a dependent variable (Y), and twenty-four were independent variables of which four were environmental variables (E1-E4) and twenty were genetic risk variables that were indicator variables with values of 0 and 1 (G1-G20). The goal of this project was to use the data given to find the original model that had been used to produce the data. This means finding out what independent variables significantly effect Y and what interactions between these independent variables significantly effect Y in order to build the final model that had produced this data. I then have to estimate the coefficients associated with said model and use them to make an estimate of said model. 
 
 ### Data Source
 
